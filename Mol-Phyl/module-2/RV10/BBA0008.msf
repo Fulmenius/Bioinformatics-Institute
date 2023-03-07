@@ -1,0 +1,890 @@
+PileUp
+
+
+
+   MSF:  203  Type: P    Check:  3242   .. 
+
+ Name: seq001 oo  Len:  203  Check:  5361  Weight:  10.0
+ Name: seq002 oo  Len:  203  Check:  5485  Weight:  10.0
+ Name: seq003 oo  Len:  203  Check:  4208  Weight:  10.0
+ Name: seq004 oo  Len:  203  Check:  4028  Weight:  10.0
+ Name: seq005 oo  Len:  203  Check:  4262  Weight:  10.0
+ Name: seq006 oo  Len:  203  Check:  3369  Weight:  10.0
+ Name: seq007 oo  Len:  203  Check:  3129  Weight:  10.0
+ Name: seq008 oo  Len:  203  Check:  6449  Weight:  10.0
+ Name: seq009 oo  Len:  203  Check:  5380  Weight:  10.0
+ Name: seq010 oo  Len:  203  Check:  5848  Weight:  10.0
+ Name: seq011 oo  Len:  203  Check:  6067  Weight:  10.0
+ Name: seq012 oo  Len:  203  Check:  5363  Weight:  10.0
+ Name: seq013 oo  Len:  203  Check:  6684  Weight:  10.0
+ Name: seq014 oo  Len:  203  Check:  4761  Weight:  10.0
+ Name: seq015 oo  Len:  203  Check:  6248  Weight:  10.0
+ Name: seq016 oo  Len:  203  Check:  5062  Weight:  10.0
+ Name: seq017 oo  Len:  203  Check:  3381  Weight:  10.0
+ Name: seq018 oo  Len:  203  Check:  4735  Weight:  10.0
+ Name: seq019 oo  Len:  203  Check:  4035  Weight:  10.0
+ Name: seq020 oo  Len:  203  Check:  5023  Weight:  10.0
+ Name: seq021 oo  Len:  203  Check:  6001  Weight:  10.0
+ Name: seq022 oo  Len:  203  Check:  7441  Weight:  10.0
+ Name: seq023 oo  Len:  203  Check:  9487  Weight:  10.0
+ Name: seq024 oo  Len:  203  Check:  8057  Weight:  10.0
+ Name: seq025 oo  Len:  203  Check:   474  Weight:  10.0
+ Name: seq026 oo  Len:  203  Check:  4354  Weight:  10.0
+ Name: seq027 oo  Len:  203  Check:  6705  Weight:  10.0
+ Name: seq028 oo  Len:  203  Check:  4741  Weight:  10.0
+ Name: seq029 oo  Len:  203  Check:  4862  Weight:  10.0
+ Name: seq030 oo  Len:  203  Check:  4772  Weight:  10.0
+ Name: seq031 oo  Len:  203  Check:  3951  Weight:  10.0
+ Name: seq032 oo  Len:  203  Check:  3502  Weight:  10.0
+ Name: seq033 oo  Len:  203  Check:  5438  Weight:  10.0
+ Name: seq034 oo  Len:  203  Check:  4124  Weight:  10.0
+ Name: seq035 oo  Len:  203  Check:  2074  Weight:  10.0
+ Name: seq036 oo  Len:  203  Check:  2668  Weight:  10.0
+ Name: seq037 oo  Len:  203  Check:  3483  Weight:  10.0
+ Name: seq038 oo  Len:  203  Check:  2671  Weight:  10.0
+ Name: seq039 oo  Len:  203  Check:  3271  Weight:  10.0
+ Name: seq040 oo  Len:  203  Check:  2232  Weight:  10.0
+ Name: seq041 oo  Len:  203  Check:  4808  Weight:  10.0
+ Name: seq042 oo  Len:  203  Check:  6140  Weight:  10.0
+ Name: seq043 oo  Len:  203  Check:  5439  Weight:  10.0
+ Name: seq044 oo  Len:  203  Check:  5600  Weight:  10.0
+ Name: seq045 oo  Len:  203  Check:  4084  Weight:  10.0
+ Name: seq046 oo  Len:  203  Check:  4098  Weight:  10.0
+ Name: seq047 oo  Len:  203  Check:  4031  Weight:  10.0
+ Name: seq048 oo  Len:  203  Check:  2509  Weight:  10.0
+ Name: seq049 oo  Len:  203  Check:  4423  Weight:  10.0
+ Name: seq050 oo  Len:  203  Check:  2834  Weight:  10.0
+ Name: seq051 oo  Len:  203  Check:  5452  Weight:  10.0
+ Name: seq052 oo  Len:  203  Check:  2017  Weight:  10.0
+ Name: seq053 oo  Len:  203  Check:  5494  Weight:  10.0
+ Name: seq054 oo  Len:  203  Check:  5192  Weight:  10.0
+ Name: seq055 oo  Len:  203  Check:  5192  Weight:  10.0
+ Name: seq056 oo  Len:  203  Check:  5192  Weight:  10.0
+ Name: seq057 oo  Len:  203  Check:  5192  Weight:  10.0
+ Name: seq058 oo  Len:  203  Check:  4823  Weight:  10.0
+ Name: seq059 oo  Len:  203  Check:  5129  Weight:  10.0
+ Name: seq060 oo  Len:  203  Check:  4079  Weight:  10.0
+ Name: seq061 oo  Len:  203  Check:  5192  Weight:  10.0
+ Name: seq062 oo  Len:  203  Check:  3156  Weight:  10.0
+ Name: seq063 oo  Len:  203  Check:  3780  Weight:  10.0
+ Name: seq064 oo  Len:  203  Check:  3229  Weight:  10.0
+ Name: seq065 oo  Len:  203  Check:  3426  Weight:  10.0
+ Name: seq066 oo  Len:  203  Check:  3258  Weight:  10.0
+ Name: seq067 oo  Len:  203  Check:  2641  Weight:  10.0
+ Name: seq068 oo  Len:  203  Check:  4452  Weight:  10.0
+ Name: seq069 oo  Len:  203  Check:  5192  Weight:  10.0
+ Name: seq070 oo  Len:  203  Check:  3126  Weight:  10.0
+ Name: seq071 oo  Len:  203  Check:  3411  Weight:  10.0
+ Name: seq072 oo  Len:  203  Check:  4296  Weight:  10.0
+ Name: seq073 oo  Len:  203  Check:  3156  Weight:  10.0
+ Name: seq074 oo  Len:  203  Check:  3780  Weight:  10.0
+ Name: seq075 oo  Len:  203  Check:  3561  Weight:  10.0
+ Name: seq076 oo  Len:  203  Check:  5185  Weight:  10.0
+ Name: seq077 oo  Len:  203  Check:  2885  Weight:  10.0
+ Name: seq078 oo  Len:  203  Check:  7590  Weight:  10.0
+ Name: seq079 oo  Len:  203  Check:  6763  Weight:  10.0
+ Name: seq080 oo  Len:  203  Check:  6398  Weight:  10.0
+ Name: seq081 oo  Len:  203  Check:  4904  Weight:  10.0
+ Name: seq082 oo  Len:  203  Check:  6843  Weight:  10.0
+ Name: seq083 oo  Len:  203  Check:  9096  Weight:  10.0
+ Name: seq084 oo  Len:  203  Check:  7945  Weight:  10.0
+ Name: seq085 oo  Len:  203  Check:  8652  Weight:  10.0
+ Name: seq086 oo  Len:  203  Check:  5143  Weight:  10.0
+ Name: seq087 oo  Len:  203  Check:  6616  Weight:  10.0
+ Name: seq088 oo  Len:  203  Check:  7082  Weight:  10.0
+ Name: seq089 oo  Len:  203  Check:  1207  Weight:  10.0
+ Name: seq090 oo  Len:  203  Check:  1110  Weight:  10.0
+ Name: seq091 oo  Len:  203  Check:  9850  Weight:  10.0
+ Name: seq092 oo  Len:  203  Check:  9469  Weight:  10.0
+ Name: seq093 oo  Len:  203  Check:   158  Weight:  10.0
+ Name: seq094 oo  Len:  203  Check:  7123  Weight:  10.0
+ Name: seq095 oo  Len:  203  Check:  7267  Weight:  10.0
+ Name: seq096 oo  Len:  203  Check:  7267  Weight:  10.0
+ Name: seq097 oo  Len:  203  Check:  7267  Weight:  10.0
+ Name: seq098 oo  Len:  203  Check:  7267  Weight:  10.0
+ Name: seq099 oo  Len:  203  Check:  7123  Weight:  10.0
+ Name: seq100 oo  Len:  203  Check:  3687  Weight:  10.0
+ Name: seq101 oo  Len:  203  Check:  3951  Weight:  10.0
+ Name: seq102 oo  Len:  203  Check:  2535  Weight:  10.0
+ Name: seq103 oo  Len:  203  Check:   115  Weight:  10.0
+ Name: seq104 oo  Len:  203  Check:  4416  Weight:  10.0
+ Name: seq105 oo  Len:  203  Check:  4518  Weight:  10.0
+ Name: seq106 oo  Len:  203  Check:  4416  Weight:  10.0
+ Name: seq107 oo  Len:  203  Check:  4188  Weight:  10.0
+ Name: seq108 oo  Len:  203  Check:  5841  Weight:  10.0
+ Name: seq109 oo  Len:  203  Check:  4104  Weight:  10.0
+ Name: seq110 oo  Len:  203  Check:  4639  Weight:  10.0
+ Name: seq111 oo  Len:  203  Check:  3452  Weight:  10.0
+ Name: seq112 oo  Len:  203  Check:  3407  Weight:  10.0
+ Name: seq113 oo  Len:  203  Check:  4809  Weight:  10.0
+ Name: seq114 oo  Len:  203  Check:  5763  Weight:  10.0
+ Name: seq115 oo  Len:  203  Check:  5843  Weight:  10.0
+ Name: seq116 oo  Len:  203  Check:  6749  Weight:  10.0
+ Name: seq117 oo  Len:  203  Check:  5297  Weight:  10.0
+ Name: seq118 oo  Len:  203  Check:  4943  Weight:  10.0
+ Name: seq119 oo  Len:  203  Check:  5790  Weight:  10.0
+ Name: seq120 oo  Len:  203  Check:  4153  Weight:  10.0
+ Name: seq121 oo  Len:  203  Check:  5843  Weight:  10.0
+ Name: seq122 oo  Len:  203  Check:  5843  Weight:  10.0
+ Name: seq123 oo  Len:  203  Check:  5843  Weight:  10.0
+ Name: seq124 oo  Len:  203  Check:  5843  Weight:  10.0
+ Name: seq125 oo  Len:  203  Check:  5122  Weight:  10.0
+ Name: seq126 oo  Len:  203  Check:  5653  Weight:  10.0
+ Name: seq127 oo  Len:  203  Check:  3978  Weight:  10.0
+ Name: seq128 oo  Len:  203  Check:  5631  Weight:  10.0
+ Name: seq129 oo  Len:  203  Check:  6583  Weight:  10.0
+ Name: seq130 oo  Len:  203  Check:   373  Weight:  10.0
+ Name: seq131 oo  Len:  203  Check:  5782  Weight:  10.0
+ Name: seq132 oo  Len:  203  Check:  5642  Weight:  10.0
+ Name: seq133 oo  Len:  203  Check:  6021  Weight:  10.0
+ Name: seq134 oo  Len:  203  Check:  6439  Weight:  10.0
+ Name: seq135 oo  Len:  203  Check:  7523  Weight:  10.0
+ Name: seq136 oo  Len:  203  Check:  7877  Weight:  10.0
+ Name: seq137 oo  Len:  203  Check:  6649  Weight:  10.0
+ Name: seq138 oo  Len:  203  Check:  6636  Weight:  10.0
+ Name: seq139 oo  Len:  203  Check:  9287  Weight:  10.0
+ Name: seq140 oo  Len:  203  Check:  7056  Weight:  10.0
+ Name: seq141 oo  Len:  203  Check:  9314  Weight:  10.0
+ Name: seq142 oo  Len:  203  Check:  9831  Weight:  10.0
+ Name: seq143 oo  Len:  203  Check:  2239  Weight:  10.0
+ Name: seq144 oo  Len:  203  Check:  7256  Weight:  10.0
+ Name: seq145 oo  Len:  203  Check:  5582  Weight:  10.0
+
+//
+
+
+
+seq001      .......... .......... .......... .......... ......MIQS 
+seq002      .......... .......... .......... .......... ......MIQS 
+seq003      .......... .......... .......... .......... ......MIQS 
+seq004      .......... .......... .......... .......... ......MIQM 
+seq005      .......... .......... .......... .......... ......MIQM 
+seq006      .......... .......... .......... .......... ......MIQM 
+seq007      .......... .......... .......... .......... ......MIQM 
+seq008      .......... .......... .......... .......... ......MIQM 
+seq009      .......... .......... .......... .......... ......MIQE 
+seq010      .......... .......... .......... .......... ......MIQE 
+seq011      .......... .......... .......... .......... ......MIQE 
+seq012      .......... .......... .......... .......... ......MIQE 
+seq013      .......... .......... .......... .......... ......MIQM 
+seq014      .......... .......... .......... .......... ......MIQE 
+seq015      .......... .......... .......... .......... ......MIQM 
+seq016      .......... .......... .......... .......... ......MIQT 
+seq017      .......... .......... .......... .......... ......MIQM 
+seq018      .......... .......... .......... .......... ......MIQT 
+seq019      .......... .......... .......... .......... ......MIQM 
+seq020      .......... .......... .......... .......... ......MIQM 
+seq021      .......... .......... .......... .......... ......MIQE 
+seq022      .......... .......... .......... .......... ......MIQV 
+seq023      MAAAFASRLT RGGRSLLGGL NNGGSMNSSN GMMNESILSQ QQQRRTFIQM 
+seq024      .......... .......... .......... .......... .......IMP 
+seq025      .......... .......... .......... .......... ......MIMP 
+seq026      .......... .......... .......... .......... ......MIQP 
+seq027      .......... .......... .......... .......... ......MIQT 
+seq028      .......... .......... .......... .......... ......MIQT 
+seq029      .......... .......... .......... .......... ......MIYP 
+seq030      .......... .......... .......... .......... ......MIQP 
+seq031      .......... .......... .......... .......... ......MIQP 
+seq032      .......... .......... .......... .......... ......MIQP 
+seq033      .......... .......... .......... .......... ......MIQP 
+seq034      .......... .......... .......... .......... ......MIQP 
+seq035      .......... .......... .......... .......... ......MIQP 
+seq036      .......... .......... .......... .......... ......MIQP 
+seq037      .......... .......... .......... .......... ......MIQP 
+seq038      .......... .......... .......... .......... ......MIQP 
+seq039      .......... .......... .......... .......... ......MIQP 
+seq040      .......... .......... .......... .......... ......MIQS 
+seq041      .......... .......... .......... .......... ......MIQP 
+seq042      .......... .......... .......... .......... ......MIQP 
+seq043      .......... .......... .......... .......... ......MIQP 
+seq044      .......... .......... .......... .......... ......MIQA 
+seq045      .......... .......... .......... .......... ......MIQQ 
+seq046      .......... .......... .......... .......... ......MIQQ 
+seq047      .......... .......... .......... .......... ......MIQP 
+seq048      .......... .......... .......... .......... ......MIQP 
+seq049      .......... .......... .......... .......... ......MIQP 
+seq050      .......... .......... .......... .......... ......MIKP 
+seq051      .......... .......... .......... .......... ......MIQP 
+seq052      .......... .......... .......... .......... ......MIKP 
+seq053      .......... .......... .......... .......... ......MISV 
+seq054      .......... .......... .......... .......... ......MIQQ 
+seq055      .......... .......... .......... .......... ......MIQQ 
+seq056      .......... .......... .......... .......... ......MIQQ 
+seq057      .......... .......... .......... .......... ......MIQQ 
+seq058      .......... .......... .......... .......... ......MIQQ 
+seq059      .......... .......... .......... .......... ......MIQQ 
+seq060      .......... .......... .......... .......... ......MIQQ 
+seq061      .......... .......... .......... .......... ......MIQQ 
+seq062      .......... .......... .......... .......... ......MIQT 
+seq063      .......... .......... .......... .......... ......MIQQ 
+seq064      .......... .......... .......... .......... ......MIQT 
+seq065      .......... .......... .......... .......... ......MIQQ 
+seq066      .......... .......... .......... .......... ......MIQQ 
+seq067      .......... .......... .......... .......... ......MIQA 
+seq068      .......... .......... .......... .......... ......MIQQ 
+seq069      .......... .......... .......... .......... ......MIQQ 
+seq070      .......... .......... .......... .......... ......MIQQ 
+seq071      .......... .......... .......... .......... ......MIQQ 
+seq072      .......... .......... .......... .......... ......MVQQ 
+seq073      .......... .......... .......... .......... ......MIQT 
+seq074      .......... .......... .......... .......... ......MIQQ 
+seq075      .......... .......... .......... .......... ......MIQQ 
+seq076      .......... .......... .......... .......... ......MIQQ 
+seq077      .......... .......... .......... .......... ......MIQT 
+seq078      .......... .......... .......... .......MNL QRKVISMLQE 
+seq079      .......... .......... .......... .......... ......MVSF 
+seq080      .......... .......... .......... .......... ......MVSF 
+seq081      .......... .......... .......... .......... ......MIQH 
+seq082      .......... .......... .......... .......... ......MIQF 
+seq083      .......... .......... .......... ......MKAI RANIPRALPT 
+seq084      .......... .......... .......... .....MKAIK AKSPHAALPV 
+seq085      .......... .......... .......... ......MKAI GSKPVRALPV 
+seq086      .......... .......... .......... ......MKGI AGREIRGLPL 
+seq087      .......... .......... .......... ......MKGI AGRQTRGLPL 
+seq088      .......... .......... .......... ......MKGM RSNIPRALNA 
+seq089      .......... .......... .......... ......MKAI ASKVTRALPV 
+seq090      .......... .......... .......... ......MKGL GSTIVRSLPN 
+seq091      .......... .......... .......MAK KGAGATRGIT PVRPTRAIPV 
+seq092      .......... .......... .......MAK KGAGATRGIS PVRPTRAIPI 
+seq093      .......... .......... .......MAK KGAGATRGVS AVRPTRALPV 
+seq094      .......... .......... .......... ......MEAI KADITQGLEK 
+seq095      .......... .......... .......... ......MEAL GADVTQGLEK 
+seq096      .......... .......... .......... ......MEAL GADVTQGLEK 
+seq097      .......... .......... .......... ......MEAL GADVTQGLEK 
+seq098      .......... .......... .......... ......MEAL GADVTQGLEK 
+seq099      .......... .......... .......... ......MEAI KADITQGLEK 
+seq100      .......... .......... ........MS KRGRGGASGA KFRISLGLPV 
+seq101      .......... .......... ........MS KRGRGGTAGG KFRISLGLPV 
+seq102      .......... .......... .......... .MSGNGAQGT KFRISLGLPV 
+seq103      .......... .......... ..MAAEKKTE VLEKKISIKP RYKMTRGIQV 
+seq104      .......... .......... ........MS KRGRGGSSGA KFRISLGLPV 
+seq105      .......... .......... ........MS KRGRGGSSGA KFRISLGLPV 
+seq106      .......... .......... ........MS KRGRGGSSGA KFRISLGLPV 
+seq107      .......... .......... ........MS KRGRGGSSGA KFRISLGLPV 
+seq108      .......... .......... ........MS KRGRGGSSGA KFRISLGLPV 
+seq109      .......... .......... ........MS KRGRGGSSGA KFRISLGLPV 
+seq110      .......... .......... ........MS KRGRGGSSGA KFRISLGLPV 
+seq111      .......... .......... ........MS KRGRGGSAGG KFRISLGLPV 
+seq112      .......... .......... ........MS KRGRGGSAGA KFRISLGLPV 
+seq113      .......... .......... ........MS KRGRGGASGA KFRISLGLPV 
+seq114      .......... .......... ........MS KRGRGGSAGN KFRMSLGLPV 
+seq115      .......... .......... ........MS KRGRGGTSGN KFRMSLGLPV 
+seq116      .......... .......... .......... .......QGT KFRISLGLPV 
+seq117      .......... .......... ........MS .RGRGAASGT KYRMTLGLPV 
+seq118      .......... .......... ........MS KNNRTNAIGG KFRTTLGLPV 
+seq119      .......... .......... .........M GKDQANVKGC RFRVSVALPV 
+seq120      .......... .......... ........MS KRGRGGTAGG KFRISLGLPV 
+seq121      .......... .......... ........MS KRGRGGTSGN KFRMSLGLPV 
+seq122      .......... .......... ........MS KRGRGGTSGN KFRMSLGLPV 
+seq123      .......... .......... ........MS KRGRGGTSGN KFRMSLGLPV 
+seq124      .......... .......... ........MS KRGRGGTSGN KFRMSLGLPV 
+seq125      .......... .......... ........MS KRGRGGSAGN KFRMSLGLPV 
+seq126      .......... .MCLFSFSNL VLIVVDLDFF RLGRGGTSGN KFRMSLGLPV 
+seq127      .......... .......... ........MS KRGRGGSAGN KFRMSLGLPV 
+seq128      .......... .......... ........MS KRGRGGSSGN KFRMSLGLPV 
+seq129      .......... .......... .........M GKEKANVKGC RFRVSLALPV 
+seq130      .......... .......... .......... .......... .......... 
+seq131      .......... .......... .......... .......... ......MIQQ 
+seq132      .......... .......... .......... .......... ......MIQQ 
+seq133      .......... .......... .......... .......... ......MIQQ 
+seq134      .......... .......... .......... .......... ......MIGL 
+seq135      .......... .......... .......... .......... ......MIFL 
+seq136      .......... .......... .......... .......... ......MIQT 
+seq137      .......... .......... .......... .......... ......MIQR 
+seq138      .......... .......... .......... .......... ......MIQV 
+seq139      .......... .......... .......... .......... ....MIVIQM 
+seq140      .......... .......... .......... .......... ......MIQR 
+seq141      .......... .......... .......... .......... ......MIQQ 
+seq142      .......... .......... .......... MSEKIQVLGS RKGLTPALQH 
+seq143      .......... .......... .......MNK MPEKLQVLGS RKGLTPGLQH 
+seq144      .......... .......... ........MA KKKKYGVVVS RYGVNTGLQV 
+seq145      .......... .......... ......MAKR GGKRTVGVPY RFHVTPGIFM 
+
+
+seq001      FTRLNVADNS GAKEIMCIKV LG........ ....GSHKRY ASVG..SVIV 
+seq002      FTRLNVADNS GAKEIMCIKV LG........ ....GSHKRY ASVG..SVIV 
+seq003      FTRLAVADNS GAKELMCIKV LG........ ....GSKRRY ATVG..DVIV 
+seq004      QTNLDVADNS GARRVMCIKV LG........ ....GSKRRY ASVG..DIIV 
+seq005      QTNLDVADNS GARRVMCIKV LG........ ....GSKRKY ASVG..DIIV 
+seq006      QTNLDVADNS GARRVMCIKV LG........ ....GSKRKY ASVG..DIIV 
+seq007      QTNLDVADNS GARRVMCIKV LG........ ....GSKRKY ASIG..DIIV 
+seq008      QTNLEVADNS GARRVMCIKV LG........ ....GAGRRY ASVG..DVIV 
+seq009      QTMLNVADNS GARRVMCIKV LG........ ....GSHRRY AGIG..DIIK 
+seq010      QTMLNVADNS GARRVMCIKV LG........ ....GSHRRY AGVG..DIIK 
+seq011      QTMLNVADNS GARRVMCIKV LG........ ....GSHRRY AGVG..DIIK 
+seq012      QTMLDVADNS GARSVMCIKV LG........ ....GSHRRY AAIG..DIIK 
+seq013      QTMLDAADNS GARSVMCIKV LG........ ....GSHRRY AHVG..DIIK 
+seq014      QTILHVADNS GARSAMCIKV LG........ ....GSRRRY AAIG..DVIK 
+seq015      QSYLGVADNS GAKEVMCIKV LG........ ....GSKRRY ASIG..DIIK 
+seq016      QSMLDVADNS GARRVMCIKV LG........ ....GSHRRY AGIG..DIIK 
+seq017      QTILDVADNS GARRVMCIKV LG........ ....GSKRRY ASVG..DIIK 
+seq018      ESRLEVADNT GAREVMCIKV LG........ ....GSKRRY ASVG..DIIK 
+seq019      QSILEVADNS GAKKVMCIKV LG........ ....GSHHMM AKLG..DVIV 
+seq020      QSILEVADNS GAKKVMCIKV LG........ ....GSHHMV AKLG..DVIV 
+seq021      QTMLNVADNS GARRVMCIKV LG........ ....GSHRRY AGVG..DIIK 
+seq022      ETMLKVADNS GAKRVQCIKV LG........ ....GSKRRY GSVG..DTIV 
+seq023      GTVLKVVDNS GAKKVMCIQA LK........ ....G..KKG ARLG..DTIV 
+seq024      QSRLDVADNS GAREIMCIRV LNSGIGGKGL TTGGGGNKRY AHVG..DIIV 
+seq025      QSRLDVADNS GAREIMCIRV LNSGIGGKGL TTGGGGNKRY AHVG..DIIV 
+seq026      QTYLEVADNT GARKIMCIRV LK........ ..G..SNAKY ATVG..DVIV 
+seq027      QSYLNVADNS GARKIMCIRV LG........ ....TSNPSY ASIG..DVII 
+seq028      QTYLTVADNS GAKKIMCIRI LG........ .....GNRKY ASIG..DVII 
+seq029      QTMLTVADNT GARKIMCIRV LG........ .....GNRKY AKIG..DTII 
+seq030      QTYLNVADNS GARELMCIRI IG........ ....ASNRRY AHIG..DVIV 
+seq031      QTLLNVADNS GARELMCIRI IG........ ....ASNRRY AHIG..DVIV 
+seq032      QTHLNVADNS GARELMCIRI IG........ ....ASNRRY AHIG..DVIV 
+seq033      QTHLNVADNS GARELMCIRI IG........ ....ASNRRY AHIG..DVIV 
+seq034      QTHLNVADNS GARKLMCIRI IG........ ....ASNRRY AYIG..DIVV 
+seq035      QTHLNVADNS GARELMCIRI IG........ ....ASNRRY ARIG..DVIV 
+seq036      QTRLNVADNS GARELMCIRI IG........ ....ASNRRY AHIG..DIIV 
+seq037      QTLLNVADNS GARKLMCIRV IG........ ...AASNQRY ARIG..DVIV 
+seq038      QTLLNVADNS GARKLMCIRV IG........ ...AAGNQRY ARIG..DVIV 
+seq039      QTLLNVADNS GARKLMCIRV IG........ ...AAGNQRY ARIG..DVII 
+seq040      QTYLNIADNS GARKIMCIRV LG........ ....ASNRKC AHIG..DVII 
+seq041      QTYLNVADNS GARKLMCIRV IG........ ....TSNRKY ANIG..DIII 
+seq042      QSYLKVTDNS GARKLMCIRI LG........ ....TNNCKY ANTG..DTII 
+seq043      QSYLNVADNS GARKLMCIRV LG........ ....SNNRKY ANIG..DMII 
+seq044      QSYLNVADNS GAKKIMCIRV LG........ ....GSQRKY AAIG..DVII 
+seq045      ETYLNVADNS GARKLMCIRV LG........ .....SNRRY AGVG..DVII 
+seq046      QTYLNVADNS GARKLMCLRV LG........ ....TGNCTY GGIG..DQII 
+seq047      QTYLNVADNS GARKLMCIRV LG........ ....AGNSRY GFIG..DKII 
+seq048      QSYLTAADNS GARKLMCIRV LG........ ....GGNRRY ARIG..DVIV 
+seq049      QTILQVADNS GARQLMCIRV LG........ .....GRKRY ASIG..DVII 
+seq050      LSYLNVADNS GARELMCIRA LG........ ....GSYRES ANIG..DVII 
+seq051      QTYLRVADNT GARELMCIRV LG........ ....GGKQRA ATVG..DIII 
+seq052      QTYLKIADNT GAQKIMCIRI LG........ .....PNCQY ANIG..DIII 
+seq053      HTRLKVIDNS GGKEIMCIRV LG........ .....TNRKY ATLG..DVII 
+seq054      ESRLKVADNS GAREVLVIKV LG........ ....GSGRRY ANIG..DVVV 
+seq055      ESRLKVADNS GAREVLVIKV LG........ ....GSGRRY ANIG..DVVV 
+seq056      ESRLKVADNS GAREVLVIKV LG........ ....GSGRRY ANIG..DVVV 
+seq057      ESRLKVADNS GAREVLVIKV LG........ ....GSGRRY ANIG..DVVV 
+seq058      ETRLKVADNS GAREVLTIKV LG........ ....GSGRKT ANIG..DVIV 
+seq059      ESRMKVADNS GAREVLTIKV LG........ ....GSGRKT ANIG..DVVV 
+seq060      ETRLKVADNS GAREVLTIKV LG........ ....GSGRKT ANIG..DVIV 
+seq061      ESRLKVADNS GARELLCIKV LG........ ....GSGRKT ANIG..DVIV 
+seq062      ETRLKVADNS GAREILTIKV LG........ ....GSGRKF ANIG..DVIV 
+seq063      ETRLKVADNS GAREILTIKV LG........ ....GSGRKF ANIG..DVIV 
+seq064      ESRLKVADNS GAKELLTIRV LG........ ....GSSRKF AGIG..DIVV 
+seq065      ESRLKVADNT GAKEILCIRV LG........ ....GSSRRY AGIG..DVIV 
+seq066      ESRLKVADNT GAKEILCIRV LG........ ....GSSRRY ASIG..DVIV 
+seq067      QTMLKVADNS GAKEIMCVRV LG........ ....GSKRKW GNIG..DIIV 
+seq068      ETYLNVADNS GAKKLRVIRV IG........ ....GFHKKY GTVG..DIVV 
+seq069      ESRLKVADNS GAREVLVIKV LG........ ....GSGRRY ANIG..DVVV 
+seq070      ESRLRVADNT GAKEILTIRV LG........ ....GSGRRY AGIG..DVIV 
+seq071      ESRLKVADNT GAKEILTIRV LG........ ....GSGRRY AGIG..DTIV 
+seq072      QTILNVADNS GAKKLMVIRV LG........ ....GSRKRF GKIG..DIVV 
+seq073      ETRLKVADNS GAREILTIKV LG........ ....GSGRKF ANIG..DVIV 
+seq074      ETRLKVADNS GAREILTIKV LG........ ....GSGRKF ANIG..DVIV 
+seq075      QTLLKVADNS GAKEIMCIRV LG........ ....GSKRKF GNIG..DVIV 
+seq076      ESRLKVADNS GAKEVLVIKN LG........ ....GSWRKF TNIG..DIVV 
+seq077      LSKLKVADNS GAKEVRVIRN LG........ ....GSVRKF SGIG..DIII 
+seq078      LSVAKVADNS GAKEVGIIRN LG........ ....GSVKKS SNIG..DVVI 
+seq079      MTRLNVADNT GAKQVGIIKV LG........ ....STRKRY AFLG..DVVV 
+seq080      MTRLNVADNT GAKQVGIIKV LG........ ....ATYKRY AFLG..DVVV 
+seq081      MTRLKVADNT GAKEVGVIKV LG........ ....GSKKRY ASVG..DIVV 
+seq082      MTRLNVADNT GAREVGVIKV LN........ ....GSKRRY ASVG..DIVV 
+seq083      GARLVCADNT GARELEIIAV KGY....... ...KGVRRRY PAAGVGDIVV 
+seq084      GARLVCADNT GARELQIIAV KGY....... ...KGVRRRL PNAGIGDMVV 
+seq085      GARCICADNT GAKEVEIIAV RNY....... ...KGVARRL PTARVGDMVI 
+seq086      GANIVCADNT GARSISLIDV KAY....... ...HGKARRI PAAGVGDMFI 
+seq087      GANITCADNT GARSISLIDV KAW....... ...HGKARRI PAAGVGDMFM 
+seq088      GAQIACVDNT GAKVVEIISV KKY....... ...RGVKNRM PCAGIGDMCV 
+seq089      GARLQCVDNT GAREVEIISV RGY....... ...KGVRRRL AAAGVGDMVV 
+seq090      GARLVCADNT GAKELEVIAV KNY....... ...SGTVRRL PSAGVGQIVF 
+seq091      GAYLTVADNS GAKVIQVIGV VEY....... ...HGTRRRL ASAGVGDMVV 
+seq092      GAYLTVADNS GAKVIQVIGV VEY....... ...HGTRRRL ASAGVGDMVV 
+seq093      GAYLTVADNS GAKVIQIIGV VEY....... ...HGTRRRL ASAGVGDMVV 
+seq094      GSLITCADNT GARELKITSV MGY....... ...QGRKNRH PKAGLGDTIT 
+seq095      GSLITCADNT GARELKVISV HGY....... ...SGTKNRH PKAGLGDKIT 
+seq096      GSLITCADNT GARELKVISV HGY....... ...SGTKNRH PKAGLGDKIT 
+seq097      GSLITCADNT GARELKVISV HGY....... ...SGTKNRH PKAGLGDKIT 
+seq098      GSLITCADNT GARELKVISV HGY....... ...SGTKNRH PKAGLGDKIT 
+seq099      GSLITCADNT GARELKITSV MGY....... ...QGRKNRH PKAGLGDTIT 
+seq100      GAVMNCADNT GAKNLFVISV YGI....... ...RGRLNRL PSAGVGDMFV 
+seq101      GAVMNCADNT GAKNLYVIAV HGI....... ...RGRLNRL PAAGVGDMFV 
+seq102      GAIMNCADNS GARNLYIIAV KGS....... ...GSRLNRL PAASLGDMVM 
+seq103      ETLMKCADNS GAKILRCIGV KRY....... ...RGRLNRL PAAAPGDICV 
+seq104      GAVINCADNT GAKNLYIISV KGI....... ...KGRLNRL PAAGVGDMVM 
+seq105      GAVINCADNT GAKNLYIISV KGI....... ...KGRLNRL SAAGVGDMVM 
+seq106      GAVINCADNT GAKNLYIISV KGI....... ...KGRLNRL PAAGVGDMVM 
+seq107      GAVINCADNT GAKNLYIISV KGI....... ...KGRLNRL PAAGVGDMVM 
+seq108      GAVINCADNT GAKNLYIISV KGI....... ...KGRLNRL PAAGVGDMVM 
+seq109      GAAINCADNT GAKNLYIISV KGI....... ...KGRLNRL PAAGVGDMVM 
+seq110      GAVINCADNT GAKNLYIISV KGI....... ...KGRLNRL PAAGVGDMVM 
+seq111      GAVINCADNT GAKNLYVIAV HGI....... ...RGRLNRL PAAGVGDMFV 
+seq112      GAVINCADNT GAKNLYVIAV QGI....... ...KGRLNRL PAAGSGDMIV 
+seq113      GAVMNCADNT GAKNLFVIAV SGI....... ...KGRLNRL PSAGVGDMFV 
+seq114      AATVNCADNT GAKNLYIISV KGI....... ...KGRLNRL PSACVGDMVM 
+seq115      AATVNCADNT GAKNLYIISV KGI....... ...KGRLNRL PSACVGDMVM 
+seq116      GAIMNCADNS GARNLYIIAV KGS....... ...GSRLNRL PAASLGDMVM 
+seq117      QAIMNCADNS GAKNLYIVSV FGT....... ...GARLNRL PAASCGDMVL 
+seq118      GAIITCSDNS GAKDLYIIAV KRI....... ...KGRLNRY PSAGPGDLVL 
+seq119      GAVVNCADNT CAKNLYVISV KGY....... ...HGRLNRL PSAALGDMVM 
+seq120      GAVMNCADNT GAKNLYVIAV HGI....... ...RGRLNRL PAAGVGDMFV 
+seq121      AATVNCADNT GAKNLYIISV KGI....... ...KGRLNRL PSACVGDMVM 
+seq122      AATVNCADNT GAKNLYIISV KGI....... ...KGRLNRL PSACVGDMVM 
+seq123      AATVNCADNT GAKNLYIISV KGI....... ...KGRLNRL PSACVGDMVM 
+seq124      AATVNCADNT GAKNLYIISV KGI....... ...KGRLNRL PSACVGDMVM 
+seq125      AATVNCADNT GAKNLYIISV KGI....... ...KGRLNRL PSACVGDMVM 
+seq126      AATVNCADNT GAKNLYIISV KGI....... ...KGRLNRL PSACVGDMVM 
+seq127      AATINCADNT GAKNLYIISV KGI....... ...KGRLNRL PSACVGDMVM 
+seq128      GAVVNCADNT GAKNLYVISS .GV....... ...RGRLNRL PAAAVGDMVM 
+seq129      GAVVNCADNT GAKNLYIISV KGY....... ...HGRLNRL PAAALGDIVM 
+seq130      .......... .......... .......... .......... .......MVM 
+seq131      ESQLKVADNT GAKKVKCFKV LG........ ....GSRRRY ATVG..DVIV 
+seq132      ESQLKVADNT GAKKVKCFKV LG........ ....GSRRRY ATVG..DVIV 
+seq133      ESQLKVADNT GAKKVKCFKV LG........ ....GSRRRY ATVG..DVIV 
+seq134      KGILKVIDNS GATLAECIRV VR........ .....AG.KF ASLG..DEVV 
+seq135      KSVIKVIDNS GAQLAECIKV IR........ ...KGSPKSP AMVG..DRIV 
+seq136      KTKLKVADNS GAKIAECIKV FP........ ....KSGYNN ASVG..DIIV 
+seq137      QTYLNVADNS GAKKVQVIGI PY........ .....APRKY ATLG..DVVT 
+seq138      QSRLNVADNS GARLVQCIKV VG........ ....GSRRRY ASVG..DIIV 
+seq139      QTYLTIADNT GGKVAQCIKV LG........ ....GSKRRY AKIG..DIIT 
+seq140      QTYLNVADNS GAKKVQVIGI PY........ .....APRKY ATLR..DVVT 
+seq141      ETLLQVADNS GIKKVMCIKV LG........ ....GSKKRY ASVG..DEII 
+seq142      YSVVNVADNS GGKEAMIIGV YGY....... ...RGVLRRV PFANIADMVM 
+seq143      YTTVTVADNS GAKEAVIIGI YGY....... ...KGVLRRI PFANIADLVM 
+seq144      GSYVPVADNS GAKEVMIISV PQV....... ...KTRLRRL PSAGVGDLVV 
+seq145      NSLVPVADNS GAKLVRVIGV VGHYS..... ...KTVHRRI PGAGVGDMVV 
+
+
+seq001      ASVKKAIPN. .........G KVKRGQVVKA VVVRTK.KEI QRKNGSLVRF 
+seq002      ASVKKAIPN. .........G KVKFGLVVKT VVVRTK.KEI QRKNGSLVRF 
+seq003      ASVKKALPN. .........G KVKKGQVVKA VIVRTK.KEI HRDNGSLIRF 
+seq004      VSIKEAIPR. .........G RVKKGDVMKA VVVRTA.KDI RRPDGSVIRF 
+seq005      VSIKEAIPR. .........G RVKKGDVMKA VVVRTA.KDI RRPDGSVIRF 
+seq006      VSIKEAIPR. .........G RVKKGDVMKA VVVRTA.KDI RRADGSVIRF 
+seq007      VSIKEAIPR. .........G RVKKGDVMKA VVVRTA.KDI RRADGSVIRF 
+seq008      VSVKEAIPR. .........G RVKKGDVLRA VVVRVN.QNL KRKDGSVIRF 
+seq009      ITIKEAIPR. .........G KVKKGDVLKA VVVRTK.KGV RRPDGSVIRF 
+seq010      ITIKEAIPR. .........G KVKKGDVLKA VVVRTK.KGV RRPDGSVIRF 
+seq011      ITIKEAIPR. .........G KVKKGDVLKA VVVRTK.KGV RRPDGSVIRF 
+seq012      ITVKEAIPR. .........G KVKKGDVLKA VVVRTK.KGV RRPDGSVIRF 
+seq013      VTVKEAIPR. .........G KVKKGDVLKA VVVRTR.KGV RRPDGSVIRF 
+seq014      ITIKEAIPR. .........G KVKKGEVLKA VVVRTK.KGV RRSDGSVIRF 
+seq015      VTVKEAIPR. .........G KVKKGEVYDA VVVRTR.SGV RRPDGSLIRF 
+seq016      VTVKEAIPR. .........G KVKKGQVMTA VVVRTK.HGV RRTDGSIIRF 
+seq017      VAVKDAAPR. .........G RVKKGDVYNA VVVRTA.KGV RRPDGALIKF 
+seq018      VSVKDAAPR. .........G RVKKGDIYNA VVVRTA.KGV RRPDGSLIKF 
+seq019      VSIKEAIPG. .........G KVKKGDVYKG VIVRTK.TGV VRSDGSTIKF 
+seq020      VSVKDAIPG. .........G KVKKGDVYKG VIVRTK.TGV VRPDGSTIKF 
+seq021      ITIKEAIPR. .........G KVKKGDVLKA VVVRTK.KGV RRPDGSVIRF 
+seq022      VAVKECMPR. .........K KVKKGDVKKA IIVRTK.KPI YRKDGSTISF 
+seq023      ASVKEAMPN. .........G KVKKGAVVYG VVVRAA.MQR GRVDGSEVRF 
+seq024      ASVKDAAPR. .........G AVKAGDVVKA VVVRTS.HAI KRADGSTIRF 
+seq025      ASVKDAAPR. .........G AVKAGDVVKA VVVRTS.HAI KRADGSTIRF 
+seq026      ASVKEAIPR. .........G AVKEGDVVKA VVVRTK.KEV KRPDGSAIRF 
+seq027      GVVKDASPN. .........M PVKRSDVVRA VVVRTR.KAL RRNDGMSIRF 
+seq028      GVVKDATPN. .........M PVKRSDVVRA VIMRTK.NTI RRKDGMSIRF 
+seq029      GVVKEAIPN. .........M PIKRSDIVRA IVVRTS.KTI RRPDGMYIRF 
+seq030      AVIKEAIPN. .........T PLERSEVIRA VIVRTC.KEL KRNNGTIIRY 
+seq031      AVIKKAVPN. .........T PLERSEVIRA VIVRTC.KEL KRENGMIIRY 
+seq032      AVIKEAVPN. .........M PLERSEIVRA VIVRTC.KEL KRDNGMIIRY 
+seq033      AVIKEAVPN. .........M PLERSEVVRA VIVRTC.KEL KRDNGMIIRY 
+seq034      AVIKEAVPN. .........T PLERSEVIRA VIVRTC.KEL KRSNGIIIQY 
+seq035      AVIKEAIPN. .........T PLERSEVIRA VVVRTC.KEL KRDNGMIIRY 
+seq036      AVIKEALPS. .........T SLERSEVVRA VIVRTC.KEL KCDDGIIIRY 
+seq037      AVIKDAVPQ. .........M PLERSEVIRA VIVRTC.KEF KCEDGIIIRY 
+seq038      AVIKDALPQ. .........M PLERSEVIRA VIVRTC.KEF KCEDGIIIRY 
+seq039      AVIKDAVPQ. .........M PLERSEVIRA VIVRTR.KEF KGDDGIIIRY 
+seq040      AIIKEAVPN. .........M PLEKSEVVRA VVIRTC.KEF ERDNGMMIRS 
+seq041      AVVKEAVPN. .........M PIKKSEIVRA VIVRTC.KEF KRNNGSIIKF 
+seq042      AVVKESVPN. .........M PVKKSEIVRA VIVRTR.KEM KRDNGIIIRF 
+seq043      AVVKEAVPN. .........M PLKRSEVIRA VIVRTR.KGL KRDNGMILRF 
+seq044      GVVKDSVPN. .........M SLKKSEVVRA VVVRTC.KGI RRENGMTIRF 
+seq045      AVVKDALPN. .........M PVKKSDVVRA VVVRTK.KSL RRDSGNVIRF 
+seq046      AVVKDALPN. .........M PIKKSDVVRA VIVRTK.QPL RRASGMSIRF 
+seq047      AVVKDATPN. .........M AVKKSDVVEA VIVRTR.HHI RRDSGMTIRF 
+seq048      AVVKDGIPN. .........I PIKKSDTVKA VIVRTR.KEL KRDNGMNICF 
+seq049      AVVKDAIPN. .........M PVKKSDVVRA VVVRTS.KPV RRDTGMLIRF 
+seq050      AVVKDALPN. .........M PVKRSDIVRA VIVRTR.KGI RRENGMAIRF 
+seq051      AVVKDATPN. .........M PVKRSDIVRA VIVRTR.KNV RRVNGTSIRF 
+seq052      AVVKEAIPN. .........M VVKKSDIVKA VIVRTV.KGV RRESGMAIRF 
+seq053      GVVKNAVPN. .........M PVKKSDVVRA VVVRIK.KTI NRKNFFSVRF 
+seq054      ATVKDATPG. .........G VVKKGQVVKA VVVRTK.RGV RRPDGSYIRF 
+seq055      ATVKDATPG. .........G VVKKGQVVKA VVVRTK.RGV RRPDGSYIRF 
+seq056      ATVKDATPG. .........G VVKKGQVVKA VVVRTK.RGV RRPDGSYIRF 
+seq057      ATVKDATPG. .........G VVKKGQVVKA VVVRTK.RGV RRPDGSYIRF 
+seq058      CTVKQATPG. .........G VVKKGEVVKA VIVRTK.SGA RRSDGSYISF 
+seq059      CTVKQATPG. .........G VVKKGEVVKA VIVRTK.SGA RRQDGSYIKF 
+seq060      CTVKNATPG. .........G VVKKGDVVKA VIVRTK.SGV RRNDGSYIKF 
+seq061      CSVKQATPG. .........G VVKKGDVVKA VIVRSK.SGV RRNDGSYIKF 
+seq062      ASVKQATPG. .........G AVKKGDVVKA VIVRTK.SGA RRADGSYIKF 
+seq063      ASVKQATPG. .........G AVKKGDVVKA VIVRTK.TGA RRPDGSYIKF 
+seq064      ATVKSAAPG. .........G AVKKGEVVKA VIVRTK.SGA KRPDGSYIKF 
+seq065      ATVKDAIPG. .........G NVKRGDVVKA VVVRTV.KER RRPDGSYIKF 
+seq066      GTVKDAIPG. .........G NVKRGDVVKA VVVRTA.KEC RRPDGSYIKF 
+seq067      ASVKSATPG. .........G VVKKGEVVKA VVVRSA.KGL RRADGSYIKF 
+seq068      CSVREAIPN. .........S DVKKGDVVRA VIVRTK.KEI RRNDGTYIRF 
+seq069      ATVKDATPG. .........G VVKKGQVVKA VVVRTK.RGV RRPDGSYIRF 
+seq070      ATVKDAIPG. .........G NVKKGDVVKA VIVRTV.KER RRPDGSYIRF 
+seq071      ATVKDAIPG. .........G NVKKAHVVKA VVVRTR.KQS RRPDGSYIKF 
+seq072      ASVKEAIPG. .........G NVKKGDIVKA VIVRTR.KET RRDDGSYIKF 
+seq073      ASVKQATPG. .........G AVKKGDVVKA VIVRTK.SGA RRADGSYIKF 
+seq074      ASVKQATPG. .........G AVKKGDVVKA VIVRTK.TGA RRPDGSYIKF 
+seq075      ASVKSATPG. .........G VVKKGEVVKA VIVRSV.RGL RRADGSYIKF 
+seq076      CTIKKVTPG. .........G IVKKGQVVKA IIVRTK.RGL KRSDGTQIQF 
+seq077      CSVISATPG. .........A VIKKGQVVKA VIVRTT.REL RREDGTYIKF 
+seq078      CSVKKAIPN. .........G IVKKGQVVKA VIVRTK.YGI KRENGQHVSF 
+seq079      VSVKDAIPS. .........G MVKKGQVLRA VIVRTK.KGQ QRKDGTHLKF 
+seq080      VSVKDAIPN. .........G MVKKGQVLRA VIVRTK.KGQ QRQDGTHLKF 
+seq081      VSVKKATPA. .........G LIAKGQMAKA VIVRTK.KSI RRESGLLIRF 
+seq082      VSVKDAIPS. .........G TVKKGQVLFA VIVRTK.KGA QRRDGTHLAF 
+seq083      VTVKKGTPE. .......... ..IRKQVHYA VIVRQR.KEY RRPDGTRVKF 
+seq084      CSVKEGTPD. .......... ..MRKEVVNA VIVRQR.KEY RRPDGTRVKF 
+seq085      VTVKKGTPE. .......... ..MRKQVLPA VVIRQR.KEI RRPDGTRVKF 
+seq086      ASVKKGTPE. .......... ..MRSKVVYA VVIRQK.RPY RRPDGTMVEF 
+seq087      ASVKKGTPE. .......... ..MRSKVVYA VVIRQK.RPY RRPDGTMVQF 
+seq088      VSVKKGTPE. .......... ..MRKQVLLA VVVRQK.QEF RRPDGLHVSF 
+seq089      VSVKKGTVD. .......... ..MRREVLNA VIVRQK.KEY RRPDGLRVKF 
+seq090      VSVKKGTPE. .......... ..MRKQVLPA IIIRQK.KEY KRADGTRVKF 
+seq091      ATVKKGRPD. .......... ..MRHQVVRA VIIRQR.KEY RRLDGMRIKF 
+seq092      ATVKKGRPD. .......... ..MRHQVVRA VIIRQR.KEY RRLDGMRVKF 
+seq093      ATVKKGRPD. .......... ..MRHQVVRA VIIRQR.KEY RRLDGMRVKF 
+seq094      VSVTKGTPE. .......... ..MRRQVLEA VVVRQR.KPI RRPDGTRVKF 
+seq095      VSVTKGTPE. .......... ..MRRQVLEA VVVRQR.KPI RRPDGTRVKF 
+seq096      VSVTKGTPE. .......... ..MRRQVLEA VVVRQR.KPI RRPDGTRVKF 
+seq097      VSVTKGTPE. .......... ..MRRQVLEA VVVRQR.KPI RRPDGTRVKF 
+seq098      VSVTKGTPE. .......... ..MRRQVLEA VVVRQR.KPI RRPDGTRVKF 
+seq099      VSVTKGTPE. .......... ..MRRQVLEA VVVRQR.KPI RRPDGTRVKF 
+seq100      CSVKKGKPE. .......... ..LRKKVLQG VVIRQR.KQF RRKDGTFIYF 
+seq101      ATVKKGKPE. .......... ..LRKKVMPA VVIRQR.KPF RRRDGVFIYF 
+seq102      ATVKKGKPE. .......... ..LRKKVMPA IVVRQA.KSW RRRDGVFLYF 
+seq103      VSVKKGKPE. .......... ..LRKKVHYA ILIRQK.KIW RRTDGSHIMF 
+seq104      ATVKKGKPE. .......... ..LRKKVHPA VVIRQR.KSY RRKDGVFLYF 
+seq105      ATVKKGKPE. .......... ..LRKKVHPA VVIRQR.KSY RRKDGVFLYF 
+seq106      ATVKKGKPE. .......... ..LRKKVHPA VVIRQR.KSY RRKDGVFLYF 
+seq107      ATVKKGKPE. .......... ..LRKKVHPA VVIRQR.KSY RRKDGVFLYF 
+seq108      ATVKKGKPX. .......... ..LRKKVHPA VVIRQR.KSY RRKDGVFLYF 
+seq109      ATVKKGKPE. .......... ..LRKKVHPA VVIRQR.KSY RRKDGVFLYF 
+seq110      ATVKKGKPE. .......... ..LRKKVYPA VVIRQR.KSY RRKDGVFLYF 
+seq111      ATVKKGKPE. .......... ..LRKKVMPA VVIRQR.KPF RRRDGVFLYF 
+seq112      ATVKKGKPE. .......... ..LRKKVMPA VVIRQR.KPF RRRDGVFIYF 
+seq113      ASVKKGKPE. .......... ..LRKKVLQA VVVRQR.KQY RRIDGSSIYF 
+seq114      ATVKKGKPD. .......... ..LRKKVMPA VIVRQR.KPW RRKDGVYMYF 
+seq115      ATVKKGKPD. .......... ..LRKKVLPA VIVRQR.KPW RRKDGVFMYF 
+seq116      ATVKKGKPE. .......... ..LRKKVMPA IVVRQA.KSW RRRDGVFLYF 
+seq117      ATVKKGKPD. .......... ..LRKKIMPA IVVRQR.KAW RRKDGVYLYF 
+seq118      ATVKKGKPD. .......... ..LRKKVLTA IIVRQR.KSW RRKNGVFISF 
+seq119      CSVKKGKPE. .......... ..LRKKVLNA VIIRQR.KSW RRKDGTVIYF 
+seq120      ATVKKGKPE. .......... ..LRKKVSVV PSARQR.KPF RRRDGVFIYF 
+seq121      ATVKKGKPD. .......... ..LRKKVLPA VIVRQR.KPW RRKDGVFMYF 
+seq122      ATVKKGKPD. .......... ..LRKKVLPA VIVRQR.KPW RRKDGVFMYF 
+seq123      ATVKKGKPD. .......... ..LRKKVLPA VIVRQR.KPW RRKDGVFMYF 
+seq124      ATVKKGKPD. .......... ..LRKKVLPA VIVRQR.KPW RRKDGVFMYF 
+seq125      ATVKKGKPD. .......... ..LRKKVLPA VIVRQR.KPW RRKDGVFMYF 
+seq126      ATVKKGKPD. .......... ..LRKKVLPA VIVRQR.KPW RRKDGVFMYF 
+seq127      ATVKKGKPD. .......... ..LRKKVMPA VVVRQR.KPW RRKDGVFMYF 
+seq128      ATVKKGKPD. .......... ..LRKKVMPA VIVRQR.KPW RRKDGVFMYF 
+seq129      ASVKKGKPE. .......... ..LRRKVLNA VIIRQR.KSW RRKDGTVIYF 
+seq130      ATVKKGKPE. .......... ..LRKKVHPA VVIRQR.KSY RRKDGVFLYF 
+seq131      CSVRDVEPD. .........S SVKKGDVVKA VIVRTR.NDI RRKDGSTLRF 
+seq132      CSVRDVEPD. .........S SVKKGDVVKA VIVRTR.NDI HRKDGSTLRF 
+seq133      CSVRDVEPN. .........S SIKKGDVIKA VIVRTR.RHI TRKDGSTLKF 
+seq134      VVVKKARSGS S....VTAAN KVKRGDIHHA IIVRTK.SPV RRPDGRYVRF 
+seq135      CVIQKAKPLT QNITGTANTN RVKKGDICHA IVVRSKQRNM CRKDGSTVAF 
+seq136      VSIKKAISK. .........K KVKKGQVTFA VIVRTK.KNI NRNDGSNVKF 
+seq137      VTVKEALPQ. .........G NAKKGKIYRA IIVRTA.KEV RRPDGSYIKF 
+seq138      VAVKDALPT. .........S VIKKGSVEKA VIVRVS.KEY RRVDGTYIRF 
+seq139      IVVKQAIPN. .........S SVKKGDVYKA VIVRTS.KEV RRKNGTYVRF 
+seq140      VTVKEALPQ. .........G NAKKGKIYRA IIVRTA.KEV RRPDGSYIKF 
+seq141      VAVKDAQPAF GLKD..STGK KVHNKAVQRA VVVRTT.KEI RRPDGSYIRF 
+seq142      VSIKKGTPE. .......... ..VRKQKFRA VIVRQR.MPY RRPDGTWISF 
+seq143      VSVRKGTPE. .......... ..VRKQKFKA VIVRQR.MPF RRPDGTWIAF 
+seq144      VSVKKGTPQ. .......... ..MRRQVVYA VVVRQR.RPF RRPDGTWVSF 
+seq145      VVVREGKPE. .......... ..LRKQIFRA IVVRQR.RPY RRPDGTWVAF 
+
+
+seq001      DDNAAVILDA KK.......D PVGTRIFG.. .PVSREVRYA NFMKIISLAP 
+seq002      DDNAAVILDA KK.......D PVGTRIFG.. .PVSREVRYA NFMKIISLAP 
+seq003      DENAAVILDN KR.......E PIGTRIFG.. .PVGREVRYG GFMKIVSLAP 
+seq004      DNNAAVLIDN KK.......E PIGTRIFG.. .PVPRELRAK NHMKIISLAP 
+seq005      DKNAAVLVDN KK.......E PIGTRIFG.. .PVPRELRAK NHMKIISLAP 
+seq006      DNNAAVLIDN KK.......E PIGTRIFG.. .PVPRELRAK NHMKIISLAP 
+seq007      DTNAAVLIDN KK.......E PIGTRIFG.. .PVPRELRAK NHMKIISLAP 
+seq008      DKNAAVIVNK QS.......E PVGTRIFG.. .PVPRELRAK NHMKIISLAP 
+seq009      DGNACVILNN NSE......Q PIGTRIFG.. .PVTRELRNE KFMKIISLAP 
+seq010      DGNACVILNN NSE......Q PIGTRIFG.. .PVTRELRNE KFMKIISLAP 
+seq011      DGNACVLLNN NSE......Q PIGTRIFG.. .PVTRELRSE KFMKIISLAP 
+seq012      DGNACVILNN NTE......Q PIGTRIFG.. .PVTRELRSE KFMKIISLAP 
+seq013      DRNACVLLNN NSE......Q PIGTRIFG.. .PVTRELRNA KFMKIVSLAP 
+seq014      DTNACVVLNN NE.......Q PIGTRIFG.. .PVTRELRTE KFMKIISLAP 
+seq015      DGNAAVLLNN KQ.......E PIGTRVFG.. .PVTRELRSE KLMKIVSLAP 
+seq016      DGNAAVLLNN KQ.......E PIGTRIFG.. .PVTRELRTE KFMKIVSLAP 
+seq017      DNNAAVLLNN KL.......E PLGTRIFG.. .PVTRELRTE RFMKIVSLAP 
+seq018      DGNAAVLLNT KL.......E PIGTRIFG.. .PVTRELRTE RFMKIVSLAP 
+seq019      DKNALVLLNK QD.......E PIGTRVFG.. .PVTRELRAK KYVRIMSLAE 
+seq020      DQNALVLLNK QD.......E PIGTRVFG.. .PVTRELRAK KYVRIMSLAE 
+seq021      DGNACVILNN NSE......Q PVGTRIFG.. .PVTRELRNE RFMKIISLAP 
+seq022      ENNAVVLINE QG.......I PIGTRILG.. .PVTKELRKK KLVRIVSLAS 
+seq023      DDNAVVLVDS KDKNTKTDRQ PIGTRVFG.. .PVPHELRKK KHLKILALAQ 
+seq024      DRNAAVIINN QG.......E PRGTRVFG.. .PVARELRDR RFMKIVSLAP 
+seq025      DRNAAVIINN QG.......E PRGTRVFG.. .PVARELRDR RFMKIVSLAP 
+seq026      DDNAAVIINN QL.......E PRGTRVFG.. .PVARELREK GFMKIVSLAP 
+seq027      DDNAAVIINQ DN.......N PRGTRVFG.. .PIARELRDK NFSKIISLAP 
+seq028      DDNAAVIINK EN.......N PRGTRVFG.. .PIARELRDK DFTKIVSLAP 
+seq029      DDNAAVIVNL DN.......N PRGTRVFG.. .PVAREIRDK NFSKIVSLAP 
+seq030      DDNAAVVIDQ EG.......N PKGTRVFG.. .AIPRELRQL NFTKIVSLAP 
+seq031      DDNAAVVIDQ EG.......N PKGTRIFG.. .AIARELRQL NFTKIISLAP 
+seq032      DDNAAVVIDQ EG.......N PKGTRIFG.. .AIARELREL NFTKIVSLAP 
+seq033      DDNAAVVIDQ EGR......K SKGTRIFG.. .AIARELREL NFTKIVSLAP 
+seq034      DDNAAVVIDQ EG.......N PKGTRIFC.. .AIARELRQF NFTKIVSLAP 
+seq035      DDNAAVIIDQ EG.......N PKGTRIFG.. .AIARELRQ. KFAKIVSLAP 
+seq036      DDNAAVVIDQ EG.......N PKGTRVFG.. .AIAHELREL SFTKIVSLAP 
+seq037      DDNAAVIIDQ KG.......N PKGTRVFG.. .AIAEELREL NFTKIVSLAP 
+seq038      DDNAAVIIDQ KG.......N PKGTRVFG.. .AIAEELRGL NFTKIVSLAP 
+seq039      DDNAAVIIDQ KG.......N PKGTRVFG.. .AVAEELREL NLTKIVSLAP 
+seq040      DDNAAVVIDQ EG.......N PKGTRVFG.. .PVAQELRQL NFTKIVSLAP 
+seq041      DDNAAVVINQ EG.......N PKGTRVFG.. .PIARELRES NFTKIVSLAP 
+seq042      DDNAAVVINR EG.......N LKGTRVHG.. .PVDRELWKK NFTKIVSLAP 
+seq043      DDNAAVVINT EG.......N PRGTRVFG.. .PVARELREL NFTKIVSLAP 
+seq044      DDNAAVVINK DG.......N PKGTRVFG.. .PVARELRDR NFTKIVSLAP 
+seq045      DDNAAVIINA DG.......N PRGTRVFG.. .PVARELRDR NFTKIVSLAP 
+seq046      DDNAAVIINA EG.......N PRGTRVFG.. .PVARELRDK NFTKIVSLAP 
+seq047      DDNAAVIINK DG.......N PRGTRVFG.. .PVARELRDK NFTKIVSLAP 
+seq048      DDNAAVIINA DG.......N PRGTRVFG.. .PVARELRDK NFTKIISLAP 
+seq049      DDNAAVIVNQ EG.......N PRGTRVFG.. .PVARELRDR QFMKIISLAP 
+seq050      DDNAAVIINK EG.......N PRGTRVFG.. .PIARELRDK NFTKIVSLAP 
+seq051      DENAAVIINK EN.......N PRGTRVFG.. .PVARELRDG NFTKIISLAP 
+seq052      DENAAVIINN DR.......S PKGTRIFG.. .PIARELREK EFVKIMSLAP 
+seq053      DDNAAVIIGS DG.......N PKGTRIFG.. .PVARELRDK NFSKIASLAQ 
+seq054      DENACVIIRD DK.......S PRGTRIFG.. .PVARELRDK DFMKIISLAP 
+seq055      DENACVIIRD DK.......S PRGTRIFG.. .PVARELRDK DFMKIISLAP 
+seq056      DENACVIIRD DK.......S PRGTRIFG.. .PVARELRDK DFMKIISLAP 
+seq057      DENACVIIRD DK.......S PRGTRIFG.. .PVARELRDK DFMKIISLAP 
+seq058      DENACVIIRD DK.......S PRGTRIFG.. .PVARELREN NFMKIVSLAP 
+seq059      DENACVIIRD DK.......S PRGTRIFG.. .PVARELREN NFMKIVSLAP 
+seq060      DENACVIIRD DK.......G PRGTRIFG.. .PVARELREG NFMKIVSLAP 
+seq061      DENAAVIVRD DK.......S PRGTRIFG.. .PVARELRDN QFMKIVSLAP 
+seq062      DENAAVIIRE DK.......T PRGTRIFG.. .PVARELREG GFMKIVSLAP 
+seq063      DDNAAVIIRD DK.......T PRGTRIFG.. .PVARELREG GYMKIVSLAP 
+seq064      DENAAVLIRD DK.......T PRGTRIFG.. .PVARELREG GYMKIVSLAP 
+seq065      DENAAVIIKP DN.......D PRGTRIFG.. .PVGRELREK RFMKIISLAP 
+seq066      DENAAVIIKP DN.......D PRGTRIFG.. .PVGRELREK RFMKIISLAP 
+seq067      DENAAVLIKD DK.......Q PRGTRIFG.. .PVARELRDK DFNKILSLAP 
+seq068      DDNAAVLIDK FN.......A PRGTRIFG.. .PVARELREK GFMKIVSLAP 
+seq069      DENACVIIRD DK.......S PRGTRIFG.. .PVARELRDK DFMKIISLAP 
+seq070      DENAAVILKN DG.......D PRGTRIFG.. .PVGRELREK KFMKIISLAP 
+seq071      DENAAVILKT DG.......E PRGTRIFG.. .PVGRELRDK KFMKIVSLAP 
+seq072      DDNAGVVINN NN.......E PRATRIFG.. .PVARELRAR NFMKILSLAI 
+seq073      DENAAVIIRE DK.......T PRGTRIFG.. .PVARELREG GFMKIVSLAP 
+seq074      DDNAAVIIRD DK.......T PRGTRIFG.. .PVARELREG GYMKIVSLAP 
+seq075      DENAAVIIKD DK.......Q PRGTRIFG.. .PVARELRDN EFNKILSLAP 
+seq076      SENAVVLIKD DK.......N PRGTRIFG.. .PIAREVKDA GFVKIASLAP 
+seq077      SENAAVLIKE DK.......T PRGTRIFG.. .PIAREIKEA GFAKIASLAP 
+seq078      DDNAVVIIKE DK.......S PRGTRVFG.. .PVARELREK GYLKIVSLAP 
+seq079      DDNACVLIKE DK.......S PRGTRIFG.. .PVARELRER GYNKILSLAV 
+seq080      HDNACVLIKE DK.......S PRGTRIFG.. .PVARELREK GYNKILSLAV 
+seq081      DENACVLIKE DK.......T PRGSRIFG.. .PVAREIRDR GYTKIASLAP 
+seq082      DDNACVIIKN REDF.....A PRGTRIFG.. .PVARELRDK GFNRIVSLAS 
+seq083      EDNAAVITNE RG.......E PRGSEIRG.. .AVAREAAER .FSKIGTIAS 
+seq084      EDNAAVIVTP DG.......A PRGSEIRG.. .PVAKEAAER .WPRIGSIAS 
+seq085      ADNAVVIVTP DG.......N PKGSDIKG.. .PVAKEAAER .WPGIARIAK 
+seq086      EDNAAVLVTP DG.......E VRGSEIKG.. .PVAREAAER .WPRIAAIAS 
+seq087      EDNAAVLVTP DG.......E VRGSEIKG.. .PVAREAAER .WPRIAAIAS 
+seq088      EDNAMVITDE EG.......I PKGTDIKG.. .PVAREVAER .FPKIGTTAS 
+seq089      EDNAAVIVSP EG.......V LKGSEIRG.. .PVAKEAADR .WPSVGSAAS 
+seq090      EDNAAVIVTP EG.......T PKGSDIKG.. .PVSKEAAER .WPGVSRLAK 
+seq091      EDNAAVIVTP EG.......V PRGTEIRG.. .PVAREAAER .WVRIGSIAS 
+seq092      EDNAAVIVTP EG.......V PRGTEIRG.. .PVAREAAEK .WVRIGSIAS 
+seq093      EDNAAVIVTP EG.......V PRGTEIRG.. .PVAREAAER .WVRIGSIAS 
+seq094      EDNAAVIIDD LG.......E PRGTEIKG.. .PISREVAER .YGTIASTAT 
+seq095      EDNAAVIVDE NE.......D PRGTELKG.. .PIAREVAQR .FGSVASAAT 
+seq096      EDNAAVIVDE NE.......D PRGTELKG.. .PIAREVAQR .FGSVASAAT 
+seq097      EDNAAVIVDE NE.......D PRGTELKG.. .PIAREVAQR .FGSVASAAT 
+seq098      EDNAAVIVDE NE.......D PRGTELKG.. .PIAREVAQR .FGSVASAAT 
+seq099      EDNAAVIIDD LG.......E PRGTEIKG.. .PISREVAER .YGTIASTAT 
+seq100      EDNAGVIVNN KG.......E MKGSAITG.. .PVAKECADL .WPRIAANAG 
+seq101      EDNAGVIVNN KG.......E MKGSAITG.. .PVAKECADL .WPRIASNAS 
+seq102      EDNAGVIANP KG.......E MKGSAITG.. .PVGKECADL .WPRVASNSG 
+seq103      EDNAAVLINN KG.......E LRGAQIAG.. .PVPREVADM .WPKISSQAS 
+seq104      EDNAGVIVNN KG.......E MKGSAITG.. .PVAKECADL .WPRIASNAG 
+seq105      EDNAGVIVNN KG.......E MKGSAITG.. .PVAKECADL .WPRIASNAG 
+seq106      EDNAGVIVNN KG.......E MKGSAITG.. .PVAKECADL .WPRIASNAG 
+seq107      EDNAGVIVNN KG.......E IKGSAITG.. .PVAKECADL .WPRIASNAG 
+seq108      EDNAGVIVNN KG.......E MKGSAITG.. .PVXKECADL .WPXIASNAG 
+seq109      EDNAGVIVSN KG.......E MKGSAITG.. .PVAKECADL .WPRIASNAG 
+seq110      EDNAGVIVNN KG.......E MKGSAITG.. .PVAKDCADL .WPRIASNAG 
+seq111      EDNAGVIVNN KG.......E MKGSAITG.. .PVAKECADL .WPRIASNAG 
+seq112      EDNAGVIVNN KG.......E MKGSAITG.. .PVAKECADL .WPRIASNAS 
+seq113      EDNAGVIVNN KG.......E MKGSAITG.. .PVTKECADL .WPRIASNAG 
+seq114      EDNAGVIVNP KG.......E MKGSAITG.. .PIGKECADL .WPRIASAAN 
+seq115      EDNAGVIVNP KG.......E MKGSAITG.. .PIGKECADL .WPRIASAAN 
+seq116      EDNAGVIANP KG.......E MKGSAITG.. .PVGKECADL .WPRVASNSG 
+seq117      EDNAGVIVNP KG.......E MKGSAITG.. .PVAKECADL .WPRIASNAG 
+seq118      EDNAGIIANP KG.......E LKGSTILG.. .PVAKEASEI .WPKIASACS 
+seq119      EDNAGVIVNP KG.......E MKGSGIAG.. .PVAKESADL .WPKISTHAP 
+seq120      EDNAGVIVNN KG.......E MKGSAITG.. .PVAKECADL .WPRIASNAS 
+seq121      EDNAGVIVNP KG.......E MKGSAITG.. .PIGKECADL .WPRIASAAN 
+seq122      EDNAGVIVNP KG.......E MKGSAITG.. .PIGKECADL .WPRIASAAN 
+seq123      EDNAGVIVNP KG.......E MKGSAITG.. .PIGKECADL .WPRIASAAN 
+seq124      EDNAGVIVNP KG.......E MKGSAITG.. .PIGKECADL .WPRIASAAN 
+seq125      EDNAGVIVNP KG.......E MKGSAITG.. .PIGKECADL .WPRIASAAN 
+seq126      EDNAGVIVNP KG.......E MKGSAITG.. .PIGKECADL .WPRIASAAN 
+seq127      EDNAGVIVNA KG.......E MKGSAITG.. .PIGKECADL .WPRIASAAN 
+seq128      EDNAGVIVNP KG.......E MNPSAITG.. .PIGKECADL .WPRIASAAN 
+seq129      EDNAGVIVNS QGR......D GRVSGIAG.. .PVAKEAGRP SGPKISSHAP 
+seq130      EDNAGVIVNN KG.......E MKGSAITG.. .PVAKECADL .WPRIASNAG 
+seq131      DTNSCVIIDD KG.......N PKGTRIFG.. .PVAREIRDR GFIKISSLAP 
+seq132      DTNSCVIIDD KG.......N PKGTRIFG.. .PIAREIRDR GFVKISSLAP 
+seq133      DTNSCVIIDD KG.......N PKGTRIFG.. .PVAREIRDR GFIKISSLAP 
+seq134      DDNACVLVNK EC.......E PLGTRILS.. .VVANELRTK HHTKIASLAP 
+seq135      GDTACVLINK NTG......E PLGTRIMAND GCVDRTLKDK GYNKICSLAS 
+seq136      SDNAVVLLNS SL.......V PIGTRIMG.. .PIVHELRQR RFMKIVTLAT 
+seq137      DDNACVLLNQ YG.......E PLGTRVLG.. .PIAREVRNK GFTKIASLAP 
+seq138      DDNACVVIDA NG.......N PKGKRIFG.. .PVARELRDM DFTKIVSLAP 
+seq139      DDNACVILDA NL.......S PRGKRVFG.. .PVARELRDA NFMKVVSLAS 
+seq140      DDNACVLLNQ YG.......E PLGTRVLG.. .PIAREVRNK GFTKIASLAP 
+seq141      DDNACAIIDD KG.......N PKGTRIFG.. .PVARELRDK KYAKIISLAP 
+seq142      EDNAVVIINP DG.......T PKGTEVRG.. .PIAREAAER .WPKIASLAT 
+seq143      EDNAVVIVNP DG.......T PKGTEIRG.. .PIAKEAAER .WPKVASIAT 
+seq144      EDNAVVIVNP DG.......T PRGSEVRG.. .PIAREAAER .WPRVAKIAT 
+seq145      EDNAVVIVTP EG.......D PKGSEIHG.. .PVAMEATLR .WPTIANLAS 
+
+
+seq001      EVV
+seq002      EVV
+seq003      EVL
+seq004      EVL
+seq005      EVL
+seq006      EVL
+seq007      EVL
+seq008      EVL
+seq009      EVL
+seq010      EVL
+seq011      EVL
+seq012      EVL
+seq013      EVL
+seq014      EVL
+seq015      EVL
+seq016      EVL
+seq017      EVL
+seq018      EVL
+seq019      EVL
+seq020      EVL
+seq021      EVL
+seq022      NVL
+seq023      HVA
+seq024      EV.
+seq025      EVL
+seq026      EVL
+seq027      EVV
+seq028      EVL
+seq029      EVL
+seq030      EVL
+seq031      EVL
+seq032      EVL
+seq033      EVL
+seq034      EIL
+seq035      EVL
+seq036      EVL
+seq037      EVL
+seq038      EVL
+seq039      EVL
+seq040      EVL
+seq041      EVL
+seq042      EAF
+seq043      EVL
+seq044      EVL
+seq045      EVI
+seq046      EVL
+seq047      EVL
+seq048      EVL
+seq049      EVL
+seq050      EVL
+seq051      EVL
+seq052      EVV
+seq053      EVV
+seq054      EVI
+seq055      EVI
+seq056      EVI
+seq057      EVI
+seq058      EVI
+seq059      EVL
+seq060      EVL
+seq061      EVL
+seq062      EVL
+seq063      EVL
+seq064      EVL
+seq065      EVL
+seq066      EVL
+seq067      EVL
+seq068      EVW
+seq069      EVI
+seq070      EVL
+seq071      EVI
+seq072      EVI
+seq073      EVL
+seq074      EVL
+seq075      EVL
+seq076      EVL
+seq077      EVL
+seq078      EVL
+seq079      EVV
+seq080      EVV
+seq081      EVL
+seq082      EVL
+seq083      VIV
+seq084      IIV
+seq085      III
+seq086      IIV
+seq087      IIV
+seq088      IIV
+seq089      IIV
+seq090      IIH
+seq091      IIV
+seq092      IIV
+seq093      IIV
+seq094      MIV
+seq095      MIV
+seq096      MIV
+seq097      MIV
+seq098      MIV
+seq099      MIV
+seq100      SIA
+seq101      SIA
+seq102      VVV
+seq103      SIN
+seq104      SIA
+seq105      SIA
+seq106      SIA
+seq107      SIA
+seq108      SIA
+seq109      SIS
+seq110      SIA
+seq111      SIA
+seq112      SIA
+seq113      SIA
+seq114      AIV
+seq115      AIV
+seq116      VVV
+seq117      TVV
+seq118      CIV
+seq119      AIV
+seq120      SIA
+seq121      AIV
+seq122      AIV
+seq123      AIV
+seq124      AIV
+seq125      AIV
+seq126      AIV
+seq127      AIV
+seq128      AIV
+seq129      AIV
+seq130      SIA
+seq131      EVI
+seq132      EVI
+seq133      EVI
+seq134      RTI
+seq135      RVI
+seq136      FIV
+seq137      EVV
+seq138      EVL
+seq139      EVI
+seq140      EVV
+seq141      EVQ
+seq142      LVV
+seq143      MVI
+seq144      MIV
+seq145      IVV
+
