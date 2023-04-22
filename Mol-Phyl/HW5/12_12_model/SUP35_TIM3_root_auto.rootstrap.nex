@@ -1,0 +1,5 @@
+#NEXUS
+[ This file is best viewed in FigTree. ]
+begin trees;
+  tree tree_1 = ((SUP35_Kla_AB039749:0.2584816214[&id="2",rootstrap="26.2"],SUP35_Agos_ATCC_10895_NM_211584:0.3421240896[&id="3",rootstrap="6.6"]):0.1370450879[&id="1",rootstrap="37.8"],(((((((SUP35_Scer_74-D694_GCA_001578265.1:0.0004800241[&id="11",rootstrap="0"],SUP35_Scer_beer078_CM005938:0.0000010000[&id="12",rootstrap="0"]):0.0000010000[&id="10",rootstrap="0"],SUP35_Sbou_unique28_CM003560:0.0004799690[&id="13",rootstrap="0"]):0.0463571031[&id="9",rootstrap="0.3"],SUP35_Spar_A12_Liti:0.0325348180[&id="14",rootstrap="0.5"]):0.0354931430[&id="8",rootstrap="0.5"],SUP35_Smik_IFO1815T_30:0.0737145335[&id="15",rootstrap="0.7"]):0.0322260846[&id="7",rootstrap="0.4"],SUP35_Skud_IFO1802T_36:0.0971271259[&id="16",rootstrap="0.6"]):0.0154674537[&id="6",rootstrap="3.2"],SUP35_Sarb_H-6_chrXIII_CM001575:0.0787274110[&id="17",rootstrap="5.9"]):0.0099480998[&id="5",rootstrap="8"],SUP35_Seub_CBS12357_chr_II_IV_DF968535:0.0912576039[&id="18",rootstrap="5.6"]):0.1783889452[&id="4",rootstrap="37.8"]):0.0000010000[&id="0",rootstrap="37.8"];
+end;

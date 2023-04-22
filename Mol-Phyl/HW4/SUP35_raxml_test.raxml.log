@@ -1,0 +1,42 @@
+
+RAxML-NG v. 1.1.0 released on 29.11.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz, 2 cores, 7 GB RAM
+
+RAxML-NG was called at 27-Mar-2023 05:39:16 as follows:
+
+raxml-ng --check --msa SUP35_aln_prank_trim.fas --model TIM3+G4 --prefix SUP35_raxml_test
+
+Analysis options:
+  run mode: Alignment validation
+  start tree(s): 
+  random seed: 1679884756
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (auto)
+
+[00:00:00] Reading alignment from file: SUP35_aln_prank_trim.fas
+[00:00:00] Loaded alignment with 10 taxa and 2025 sites
+
+Alignment comprises 1 partitions and 2025 sites
+
+Partition 0: noname
+Model: TIM3+G4m
+Alignment sites: 2025
+Gaps: 2.10 %
+Invariant sites: 56.25 %
+
+
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /home/git-repos/Bioinformatics-Institute/Mol-Phyl/HW4/SUP35_raxml_test.raxml.log
+
+Analysis started: 27-Mar-2023 05:39:16 / finished: 27-Mar-2023 05:39:16
+
+Elapsed time: 0.007 seconds
+

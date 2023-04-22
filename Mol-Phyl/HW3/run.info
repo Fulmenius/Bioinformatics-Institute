@@ -1,0 +1,1 @@
+/usr/lib64/ugene-46.0/ugenecl --task=data:cmdline/align.uwl --log-no-task-progress --ugene-output-progress-state --ugene-output-error --ini-file="/home/nebelgrau/.config/Unipro/UGENE.ini" --log-level-details --mode=0 --max-iterations=8 --stable=1 --in=/tmp/hwRUdI.fasta --out=/tmp/dGccsM.fasta --format=fasta

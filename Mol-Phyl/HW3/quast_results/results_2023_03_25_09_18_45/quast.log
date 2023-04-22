@@ -1,0 +1,18 @@
+/home/paul-valery/miniconda3/bin/quast SUP35_10seqs.clustalw.fa
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-5.15.0-67-generic-x86_64-with-glibc2.35 (linux_64)
+  Python version: 3.9.15
+  CPUs number: 4
+
+Started: 2023-03-25 09:18:45
+
+Logging to /home/git-repos/Bioinformatics-Institute/Mol-Phyl/HW3/quast_results/results_2023_03_25_09_18_45/quast.log
+NOTICE: Maximum number of threads is set to 1 (use --threads option to set it manually)
+
+CWD: /home/git-repos/Bioinformatics-Institute/Mol-Phyl/HW3
+Main parameters: 
+  MODE: default, threads: 1, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000

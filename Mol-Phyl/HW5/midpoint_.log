@@ -1,0 +1,37 @@
+IQ-TREE multicore version 2.2.0.3 COVID-edition for Linux 64-bit built Aug  2 2022
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    nebelgrau-Aspire-E5-576G (AVX2, FMA3, 7 GB RAM)
+Command: iqtree2 -s ./SUP35_aln_prank.trim.fas -m TIM3+F+G4 -pre midpoint_ -m MIDPOINT -B 1000
+Seed:    675678 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Mar 25 04:46:14 2023
+Kernel:  AVX+FMA - 1 threads (4 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 4 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file ./SUP35_aln_prank.trim.fas ... Fasta format detected
+Reading fasta file: done in 0.0026381 secs using 99.58% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 0.012264 secs using 65.83% CPU
+Alignment has 10 sequences with 2025 columns, 570 distinct patterns
+499 parsimony-informative, 387 singleton sites, 1139 constant sites
+                                        Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 8.41618e-05 secs using 81.98% CPU
+   1  SUP35_Kla_AB039749                        7.11%    passed     27.73%
+   2  SUP35_Agos_ATCC_10895_NM_211584          10.67%    failed      0.00%
+   3  SUP35_Scer_74-D694_GCA_001578265.1        0.00%    passed     94.19%
+   4  SUP35_Sbou_unique28_CM003560              0.00%    passed     92.62%
+   5  SUP35_Scer_beer078_CM005938               2.22%    passed     92.29%
+   6  SUP35_Spar_A12_Liti                       0.00%    passed     51.58%
+   7  SUP35_Smik_IFO1815T_30                    0.00%    passed     73.50%
+   8  SUP35_Sarb_H-6_chrXIII_CM001575           0.00%    passed     55.73%
+   9  SUP35_Skud_IFO1802T_36                    0.44%    passed     99.03%
+  10  SUP35_Seub_CBS12357_chr_II_IV_DF968535    0.59%    passed     60.63%
+****  TOTAL                                     2.10%  1 sequences failed composition chi2 test (p-value<5%; df=3)
+Checking for duplicate sequences: done in 0.000249863 secs using 86.05% CPU
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 675678)...
+ERROR: File not found MIDPOINT

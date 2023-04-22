@@ -1,0 +1,180 @@
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        SUP35_aln_prank_trim.fas
+  Tree:       Maximum parsimony
+    file:           -
+  #taxa:            10
+  #sites:           2025
+  #patterns:        570
+  Max. thread mem:  2 MB
+
+Output:
+  Log:           SUP35_aln_prank_trim_modeltest.log
+  Starting tree: SUP35_aln_prank_trim_modeltest.tree
+  Results:       SUP35_aln_prank_trim_modeltest.out
+
+Selection options:
+  # dna schemes:      11
+  # dna models:       88
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: true
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          1/2
+  RNG seed:         12345
+  subtree repeats:  enabled
+--------------------------------------------------------------------------------
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TIM3+G4            7     -8998.9374     18180.5947         0.0000    0.4140
+       2  TrN+I+G4           7     -8999.7992     18182.3182         1.7235    0.1749
+       3  TIM3+I+G4          8     -8996.0035     18182.3401         1.7454    0.1730
+       4  TrN+G4             6     -9003.7976     18182.7017         2.1070    0.1444
+       5  TIM2+I+G4          8     -8997.4609     18185.2549         4.6603    0.0403
+       6  TIM2+G4            7     -9001.4442     18185.6083         5.0136    0.0338
+       7  GTR+G4             9     -8995.4907     18188.9278         8.3331    0.0064
+       8  TIM1+I+G4          8     -8999.5655     18189.4642         8.8695    0.0049
+       9  GTR+I+G4          10     -8992.0690     18189.6979         9.1032    0.0044
+      10  TIM1+G4            7     -9003.5780     18189.8758         9.2811    0.0040
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              TIM3+G4
+lnL:                -8998.9374
+Frequencies:        0.3401 0.1970 0.2260 0.2369
+Subst. Rates:       1.7149 5.6649 1.0000 1.7149 14.5197 1.0000 
+Inv. sites prop:    -
+Gamma shape:        0.4034
+Score:              18180.5947
+Weight:             0.4140
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0000
+Gamma:              0.6025
+Gamma-Inv:          0.3974
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.4790
+Alpha:              0.4035
+Alpha-P.Inv:        1.2709
+P.Inv-Alpha:        0.3475
+Frequencies:        0.3400 0.1989 0.2266 0.2344 
+
+Commands:
+  > phyml  -i SUP35_aln_prank_trim.fas -m 012032 -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s SUP35_aln_prank_trim.fas -m GTRGAMMAX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa SUP35_aln_prank_trim.fas --model TIM3+G4
+  > paup -s SUP35_aln_prank_trim.fas
+  > iqtree -s SUP35_aln_prank_trim.fas -m TIM3+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10     -8992.0690     18038.1381         0.0000    0.7674
+       2  TIM3+I+G4          8     -8996.0035     18042.0069         3.8689    0.1109
+       3  GTR+G4             9     -8995.4907     18042.9814         4.8433    0.0681
+       4  TIM2+I+G4          8     -8997.4609     18044.9218         6.7837    0.0258
+       5  TIM3+G4            7     -8998.9374     18045.8749         7.7368    0.0160
+       6  TrN+I+G4           7     -8999.7992     18047.5984         9.4603    0.0068
+       7  TIM1+I+G4          8     -8999.5655     18049.1311        10.9930    0.0031
+       8  TIM2+G4            7     -9001.4442     18050.8885        12.7504    0.0013
+       9  TrN+G4             6     -9003.7976     18053.5952        15.4571    0.0003
+      10  TIM1+G4            7     -9003.5780     18055.1560        17.0179    0.0002
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -8992.0690
+Frequencies:        0.3359 0.1972 0.2318 0.2352
+Subst. Rates:       2.6594 8.3924 1.9488 2.4777 22.3348 1.0000 
+Inv. sites prop:    0.3594
+Gamma shape:        1.4099
+Score:              18038.1381
+Weight:             0.7674
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0000
+Gamma:              0.0860
+Gamma-Inv:          0.9140
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.4810
+Alpha:              0.4143
+Alpha-P.Inv:        1.3714
+P.Inv-Alpha:        0.3549
+Frequencies:        0.3365 0.1973 0.2310 0.2352 
+
+Commands:
+  > phyml  -i SUP35_aln_prank_trim.fas -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s SUP35_aln_prank_trim.fas -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa SUP35_aln_prank_trim.fas --model GTR+I+G4
+  > paup -s SUP35_aln_prank_trim.fas
+  > iqtree -s SUP35_aln_prank_trim.fas -m GTR+I+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10     -8992.0690     18038.1381         0.0000    0.7674
+       2  TIM3+I+G4          8     -8996.0035     18042.0069         3.8689    0.1109
+       3  GTR+G4             9     -8995.4907     18042.9814         4.8433    0.0681
+       4  TIM2+I+G4          8     -8997.4609     18044.9218         6.7837    0.0258
+       5  TIM3+G4            7     -8998.9374     18045.8749         7.7368    0.0160
+       6  TrN+I+G4           7     -8999.7992     18047.5984         9.4603    0.0068
+       7  TIM1+I+G4          8     -8999.5655     18049.1311        10.9930    0.0031
+       8  TIM2+G4            7     -9001.4442     18050.8885        12.7504    0.0013
+       9  TrN+G4             6     -9003.7976     18053.5952        15.4571    0.0003
+      10  TIM1+G4            7     -9003.5780     18055.1560        17.0179    0.0002
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              GTR+I+G4
+lnL:                -8992.0690
+Frequencies:        0.3359 0.1972 0.2318 0.2352
+Subst. Rates:       2.6594 8.3924 1.9488 2.4777 22.3348 1.0000 
+Inv. sites prop:    0.3594
+Gamma shape:        1.4099
+Score:              18038.1381
+Weight:             0.7674
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0000
+Gamma:              0.0860
+Gamma-Inv:          0.9140
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.4810
+Alpha:              0.4143
+Alpha-P.Inv:        1.3714
+P.Inv-Alpha:        0.3549
+Frequencies:        0.3365 0.1973 0.2310 0.2352 
+
+Commands:
+  > phyml  -i SUP35_aln_prank_trim.fas -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s SUP35_aln_prank_trim.fas -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa SUP35_aln_prank_trim.fas --model GTR+I+G4
+  > paup -s SUP35_aln_prank_trim.fas
+  > iqtree -s SUP35_aln_prank_trim.fas -m GTR+I+G4
+Done

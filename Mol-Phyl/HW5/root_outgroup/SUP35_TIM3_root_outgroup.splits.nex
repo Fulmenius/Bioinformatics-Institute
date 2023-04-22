@@ -1,0 +1,56 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=10;
+TAXLABELS
+[1] 'SUP35_Kla_AB039749'
+[2] 'SUP35_Agos_ATCC_10895_NM_211584'
+[3] 'SUP35_Scer_74-D694_GCA_001578265.1'
+[4] 'SUP35_Sbou_unique28_CM003560'
+[5] 'SUP35_Scer_beer078_CM005938'
+[6] 'SUP35_Spar_A12_Liti'
+[7] 'SUP35_Smik_IFO1815T_30'
+[8] 'SUP35_Sarb_H-6_chrXIII_CM001575'
+[9] 'SUP35_Skud_IFO1802T_36'
+[10] 'SUP35_Seub_CBS12357_chr_II_IV_DF968535'
+;
+END; [Taxa]
+
+BEGIN Splits;
+DIMENSIONS ntax=10 nsplits=31;
+FORMAT labels=no weights=yes confidences=no intervals=no;
+MATRIX
+	100	 2,
+	100	 3,
+	100	 4,
+	100	 5,
+	34	 4 5,
+	100	 3 4 5,
+	100	 6,
+	100	 3 4 5 6,
+	100	 7,
+	96	 1 2 8 9 10,
+	100	 9,
+	47	 1 2 8 10,
+	100	 8,
+	100	 10,
+	59	 8 10,
+	100	 1 2,
+	100	 1,
+	39	 8 9 10,
+	45	 3 5,
+	8	 1 2 9 10,
+	33	 1 2 10,
+	4	 1 2 8,
+	21	 3 4,
+	2	 7 8 9 10,
+	4	 9 10,
+	2	 1 2 7,
+	7	 1 2 9,
+	0	 1 2 8 9,
+	0	 1 2 3 4 5,
+	0	 1 2 7 9,
+	0	 8 9,
+;
+END; [Splits]
+

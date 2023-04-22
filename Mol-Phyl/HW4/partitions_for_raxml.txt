@@ -1,0 +1,6 @@
+DNA, NM_pos1 = 1-1159\3
+DNA, NM_pos2 = 2-1159\3
+DNA, NM_pos3 = 3-1159\3
+DNA, C_pos1 = 1160-2460\3
+DNA, C_pos2 = 1161-2460\3
+DNA, C_pos3 = 1162-2460\3
