@@ -1,0 +1,4 @@
+Ind1	Species1
+Ind2	Species2
+Ind3	Species3
+Ind4	Outgroup
