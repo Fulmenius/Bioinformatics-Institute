@@ -1,0 +1,5 @@
+stdout:
+Some text to stdout
+
+stderr:
+Some text to stderr
